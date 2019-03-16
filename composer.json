@@ -53,8 +53,11 @@
     },
     "extra": {
         "symfony": {
-            "allow-contrib": false,
+            "allow-contrib": true,
             "require": "4.2.*"
         }
+    },
+    "require-dev": {
+        "codeception/codeception": "^2.5"
     }
 }

@@ -1,1 +1,1 @@
-# Demo-проект для курса phpqa.ru
+# Demo-проект для курса phpqa.ru 1
